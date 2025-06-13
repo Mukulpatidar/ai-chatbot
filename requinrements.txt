@@ -1,0 +1,4 @@
+flask
+openai
+flask==2.2.5
+openai==0.28
